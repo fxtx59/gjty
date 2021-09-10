@@ -1,2 +1,2 @@
 ##2021.9.10##
-#main.py##piece.py##map1.py#
+#piece1.py##map1.py#
